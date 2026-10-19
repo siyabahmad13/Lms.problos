@@ -1,0 +1,6 @@
+{
+  "name": "Problos LMS",
+  "description": "Enterprise-grade Learning Management System featuring Coursera-inspired curriculum player, assignment reviews, tracks, and public certificate verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
